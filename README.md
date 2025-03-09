@@ -2,10 +2,6 @@
 
 Discord kullanıcılarını botunuzun üzerinde yetkilendirerek onların istediğiniz sunucuya giriş yapmalarını sağlayın.
 
-## Katkıda Bulunma
+# CheatGlobal
 
-Bot Tanıtım Videosu: https://www.youtube.com/watch?v=ACUyjWFACx0
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
+CheatGlobal : Rhanta
